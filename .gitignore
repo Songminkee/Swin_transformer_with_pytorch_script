@@ -1,0 +1,4 @@
+input/*
+pretrained/*
+wandb/*
+__pycache__/*
